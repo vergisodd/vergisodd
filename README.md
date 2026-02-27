@@ -5,10 +5,10 @@
 ✨ Honours Bachelor of Data Science and Analytics (DSA) - Seneca Polytechnic
 
 #### You can find my portfolios here:
-- 🐍 Python portfolio -> [here](https://github.com/vergisodd/Python-Portfolio)
+- 🐍 Python portfolio -> [here](https://github.com/vergisodd/Python_Portfolio)
 - 📬 SQL projects portfolio -> [here](https://github.com/vergisodd/SQL_Portfolio)
-- 💻 R projects portfolio -> [here](https://github.com/vergisodd/R-Portfolio)
-- 📊 Data Visualization portfolio -> [here](https://github.com/vergisodd/Visualization-Portfolio)
+- 💻 R projects portfolio -> [here](https://github.com/vergisodd/R_Portfolio)
+- 📊 Data Visualization portfolio -> [here](https://github.com/vergisodd/Visualization_Portfolio)
 
 #### 🚀 Fun Fact: I'm passionate about algorithmic trading and dream of turning data insights into Wall Street wins!
 
