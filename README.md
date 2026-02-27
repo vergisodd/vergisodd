@@ -1,1 +1,44 @@
-# Mahdi
+# Hi, this is Mahdi 👋
+
+#### Data Scientist who turns Raw Data into Actionable Insights
+
+✨ Honours Bachelor of Data Science and Analytics (DSA) - Seneca Polytechnic
+
+#### You can find my portfolios here:
+- 🐍 Python portfolio -> [here](https://github.com/vergisodd/Python-Portfolio)
+- 📬 SQL projects portfolio -> [here](https://github.com/vergisodd/SQL-Portfolio)
+- 💻 R projects portfolio -> [here](https://github.com/vergisodd/R-Portfolio)
+- 📊 Data Visualization portfolio -> [here](https://github.com/vergisodd/Visualization-Portfolio)
+
+#### 🚀 Fun Fact: I'm passionate about algorithmic trading and dream of turning data insights into Wall Street wins!
+
+#### ⚡ Wanna talk? Here's my [LinkedIn](https://www.linkedin.com/in/mahdi-rasoulitilehnoei/)
+
+#### Languages and Data Analytics Tools:
+- Python
+- SQL
+- R Programming
+- Microsoft Excel
+
+#### Python Libraries:
+- NumPy
+- Pandas
+- Scikit-Learn
+- Statsmodels
+- SciPy
+- Matplotlib
+- Seaborn
+- Scikit-Optimize
+- Jupyter Notebook
+- Streamlit
+
+#### Data Visualization Tools:
+- Tableau
+- Power BI
+- Matplotlib/Seaborn
+- ClicData
+
+#### Project Management and Collaboration Tools:
+- GitHub
+- Microsoft Project
+- Google Workspace
