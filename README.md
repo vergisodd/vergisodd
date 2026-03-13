@@ -10,7 +10,7 @@
 - 💻 R projects portfolio -> [here](https://github.com/vergisodd/R_Portfolio)
 - 📊 Data Visualization portfolio -> [here](https://github.com/vergisodd/DataVisualization_Portfolio)
 
-#### 🚀 Fun Fact: I'm passionate about algorithmic trading and dream of turning data insights into Wall Street wins!
+#### 🚀 Fun Fact: I always wanted to become a veterinarian, but the first time I observed a dog surgery, I passed out. That experience made me realize I might be better suited for solving problems with data rather than scalpels.
 
 #### ⚡ Wanna talk? Here's my [LinkedIn](https://www.linkedin.com/in/mahdi-rasoulitilehnoei/)
 
