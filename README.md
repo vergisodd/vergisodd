@@ -1,6 +1,6 @@
 # Hi, this is Mahdi 👋
 
-#### Data Scientist who turns Raw Data into Actionable Insights
+#### Data Analytics & Data Science student focused on building data-driven solutions using SQL, Python, and R.
 
 ✨ Honours Bachelor of Data Science and Analytics (DSA) - Seneca Polytechnic
 
@@ -12,7 +12,12 @@
 
 #### 🚀 Fun Fact: I always wanted to become a veterinarian, but the first time I observed a dog surgery, I passed out. That experience made me realize I might be better suited for solving problems with data rather than scalpels.
 
-#### ⚡ Wanna talk? Here's my [LinkedIn](https://www.linkedin.com/in/mahdi-rasoulitilehnoei/)
+**Core Areas:**
+- Data Analysis  
+- Data Modeling  
+- Business Intelligence  
+- Exploratory Data Analysis  
+- Statistical Thinking  
 
 #### Languages and Data Analytics Tools:
 - Python
@@ -42,3 +47,6 @@
 - GitHub
 - Microsoft Project
 - Google Workspace
+
+#### Contact 
+Here's my [LinkedIn](https://www.linkedin.com/in/mahdi-rasoulitilehnoei/)
