@@ -6,7 +6,7 @@
 
 #### You can find my portfolios here:
 - 🐍 Python portfolio -> [here](https://github.com/vergisodd/Python_Portfolio)
-- 📬 SQL projects portfolio -> [here]([https://github.com/vergisodd/SQL_Portfolio](https://github.com/vergisodd/Ecommerce-Revenue-Leakage-Analysis))
+- 📬 SQL projects portfolio -> [here](https://github.com/vergisodd/Ecommerce-Revenue-Leakage-Analysis)
 - 💻 R projects portfolio -> [here](https://github.com/vergisodd/R_Portfolio)
 - 📊 Data Visualization portfolio -> [here](https://github.com/vergisodd/DataVisualization_Portfolio)
 
