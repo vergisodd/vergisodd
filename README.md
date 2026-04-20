@@ -26,8 +26,9 @@ data into decisions that actually change something.
 ## What I Work With
 
 **Languages:** SQL · Python · R  
-**Libraries:** Pandas · NumPy · Scikit-Learn · Matplotlib · Seaborn · Streamlit  
-**BI & Viz:** Power BI · Tableau  
+**Data & Engineering:** Pandas · NumPy · Databricks · Spark · ETL pipelines · Jupyter · Scikit-Learn · Matplotlib · Seaborn · Streamlit  
+**Databases:** Relational SQL · Data modeling · ERD design · NoSQL  
+**BI & Visualization:** ClicData · Power BI · Tableau  
 **Other:** Git · Excel · Google Workspace
 
 ---
