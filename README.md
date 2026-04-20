@@ -1,52 +1,38 @@
-# Hi, this is Mahdi 👋
+# Hi, I'm Mahdi 👋
 
-#### Data Analytics & Data Science student focused on building data-driven solutions using SQL, Python, and R.
+Third-year Honours Data Science & Analytics student at Seneca Polytechnic,
+building a portfolio at the intersection of SQL, Python, and real business problems.
 
-✨ Honours Bachelor of Data Science and Analytics (DSA) - Seneca Polytechnic
+I'm most interested in the analytical layer, turning messy transactional
+data into decisions that actually change something. 
 
-#### You can find my portfolios here:
-- 🐍 Python portfolio -> [here](https://github.com/vergisodd/Python_Portfolio)
-- 📬 SQL projects portfolio -> [here](https://github.com/vergisodd/Ecommerce-Revenue-Leakage-Analysis)
-- 💻 R projects portfolio -> [here](https://github.com/vergisodd/R_Portfolio)
-- 📊 Data Visualization portfolio -> [here](https://github.com/vergisodd/DataVisualization_Portfolio)
+> Fun fact: I originally wanted to be a veterinarian. The first time I
+> watched a dog surgery, I passed out. Turns out I'm better at solving
+> problems with data than scalpels.
 
-#### 🚀 Fun Fact: I always wanted to become a veterinarian, but the first time I observed a dog surgery, I passed out. That experience made me realize I might be better suited for solving problems with data rather than scalpels.
+---
 
-**Core Areas:**
-- Data Analysis  
-- Data Modeling  
-- Business Intelligence  
-- Exploratory Data Analysis  
-- Statistical Thinking  
+## Portfolio
 
-#### Languages and Data Analytics Tools:
-- Python
-- SQL
-- R Programming
-- Microsoft Excel
+| Area | Link |
+|:---|:---|
+| 🗄️ SQL | [$389K E-Commerce Return Analysis](https://github.com/vergisodd/389K-Recovery-Opportunity-SQL-Driven-Return-Analysis-for-E-Commerce) |
+| 🐍 Python | *coming soon* |
+| 📊 R | *coming soon* |
+| 📉 Data Visualization | *coming soon* |
 
-#### Python Libraries:
-- NumPy
-- Pandas
-- Scikit-Learn
-- Statsmodels
-- SciPy
-- Matplotlib
-- Seaborn
-- Scikit-Optimize
-- Jupyter Notebook
-- Streamlit
+---
 
-#### Data Visualization Tools:
-- Tableau
-- Power BI
-- Matplotlib/Seaborn
-- ClicData
+## What I Work With
 
-#### Project Management and Collaboration Tools:
-- GitHub
-- Microsoft Project
-- Google Workspace
+**Languages:** SQL · Python · R  
+**Libraries:** Pandas · NumPy · Scikit-Learn · Matplotlib · Seaborn · Streamlit  
+**BI & Viz:** Power BI · Tableau  
+**Other:** Git · Excel · Google Workspace
 
-#### Contact 
-Here's my [LinkedIn](https://www.linkedin.com/in/mahdi-rasoulitilehnoei/)
+---
+
+## Let's connect
+
+* [LinkedIn](https://www.linkedin.com/in/mahdi-rasoulitilehnoei/) 
+* [Email](mailto:mehdirasouli0995@gmail.com)
