@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/github-banner.png" alt="Mahdi Rasoulitilehnoei GitHub Banner" width="100%" />
+</p>
+
 # Hi, I'm Mahdi 👋
 
 Third-year Honours Data Science & Analytics student at Seneca Polytechnic,
